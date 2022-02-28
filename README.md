@@ -1,0 +1,2 @@
+# konyvtarfeladat
+HF - Elosztott Alk.
